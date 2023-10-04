@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "kapusta dive center Back End",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/portfolioApps/kapusta.git"
+  },
+  "author": "Valery Bichkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/portfolioApps/kapusta/issues"
+  },
+  "homepage": "https://github.com/portfolioApps/kapusta#readme"
+}
